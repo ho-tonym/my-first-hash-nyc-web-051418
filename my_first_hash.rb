@@ -1,5 +1,5 @@
 def my_hash
-your_hash =["b"=>2]
+your_hash ={"b"=>2}
 end
 
 
